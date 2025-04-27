@@ -1,0 +1,17 @@
+Split Management
+
+__Action		__Windows/Linux		__macOS
+New split (right)	Ctrl+Shift+O		Cmd+D
+New split (down)	Ctrl+Shift+E		Cmd+Shift+D
+Focus previous split	Ctrl+Super+[		Cmd+[
+Focus next split	Ctrl+Super+]		Cmd+]
+Focus split up		Ctrl+Alt+Up		Cmd+Option+Up
+Focus split down	Ctrl+Alt+Down		Cmd+Option+Down
+Focus split left	Ctrl+Alt+Left		Cmd+Option+Left
+Focus split right	Ctrl+Alt+Right		Cmd+Option+Right
+Toggle split zoom	Ctrl+Shift+Enter	Cmd+Shift+Enter
+Resize split up		Ctrl+Super+Shift+Up	Cmd+Ctrl+Up
+Resize split down	Ctrl+Super+Shift+Down	Cmd+Ctrl+Down
+Resize split left	Ctrl+Super+Shift+Left	Cmd+Ctrl+Left
+Resize split right	Ctrl+Super+Shift+Right	Cmd+Ctrl+Right
+Equalize splits		Ctrl+Super+Shift+=	Cmd+Ctrl+=

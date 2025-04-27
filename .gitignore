@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pypackages__/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+wheelhouse/
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this.txt
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+pyvenv.cfg
+
+# Jupyter Notebook related files
+.ipynb_checkpoints/
+*.ipynb.bak
+
+# MyPy cache
+.mypy_cache/
+
+# Pytype cache
+.pytype/
+
+# Flake8 cache
+.flake8
+
+# Coverage data
+.coverage
+coverage.xml
+htmlcov/
+
+# Pylint cache
+pylint_*.txt
+
+# Django specific
+*.log
+*.pot
+__init__.pyc
+migrations/
+static/  # If you collect static files locally
+
+# Editor/IDE specific temporary files
+.idea/
+.project
+.settings
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.DS_Store  # macOS specific
